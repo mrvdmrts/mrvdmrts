@@ -1,6 +1,4 @@
 ### Hi there 👋
-## I am a Data Scientist
-
 - 📫 How to reach me: mrvdmrtss@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
